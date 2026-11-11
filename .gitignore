@@ -1,0 +1,8 @@
+# 私钥与生成的配置不进仓库
+data/client.pem
+data/cert.bin
+data/ovpn/
+tools/openvpn/
+work/
+*.log
+__pycache__/

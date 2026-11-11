@@ -1,0 +1,98 @@
+[
+ {
+  "host": "vpn02-par.riseup.net",
+  "ip": "51.159.197.108",
+  "location": "Paris",
+  "live": false
+ },
+ {
+  "host": "vpn03-par.riseup.net",
+  "ip": "163.172.20.106",
+  "location": "Paris",
+  "live": true
+ },
+ {
+  "host": "vpn04-ams.riseup.net",
+  "ip": "51.15.9.205",
+  "location": "Amsterdam",
+  "live": true
+ },
+ {
+  "host": "vpn05-par.riseup.net",
+  "ip": "195.154.119.165",
+  "location": "Paris",
+  "live": true
+ },
+ {
+  "host": "vpn06-ams.riseup.net",
+  "ip": "51.158.144.32",
+  "location": "Amsterdam",
+  "live": true
+ },
+ {
+  "host": "vpn07-par.riseup.net",
+  "ip": "163.172.83.106",
+  "location": "Paris",
+  "live": false
+ },
+ {
+  "host": "vpn08-par.riseup.net",
+  "ip": "51.159.28.229",
+  "location": "Paris",
+  "live": true
+ },
+ {
+  "host": "vpn10-mtl.riseup.net",
+  "ip": "199.58.83.11",
+  "location": "Montreal",
+  "live": false
+ },
+ {
+  "host": "vpn11-par.riseup.net",
+  "ip": "51.159.55.86",
+  "location": "Paris",
+  "live": true
+ },
+ {
+  "host": "vpn13-ams.riseup.net",
+  "ip": "51.158.144.31",
+  "location": "Amsterdam",
+  "live": true
+ },
+ {
+  "host": "vpn14-par.riseup.net",
+  "ip": "51.159.196.108",
+  "location": "Paris",
+  "live": true
+ },
+ {
+  "host": "vpn18-mtl.riseup.net",
+  "ip": "199.58.83.9",
+  "location": "Montreal",
+  "live": true
+ },
+ {
+  "host": "vpn20-par.riseup.net",
+  "ip": "51.159.198.167",
+  "location": "Paris",
+  "live": false
+ },
+ {
+  "host": "vpn21-par.riseup.net",
+  "ip": "163.172.20.108",
+  "location": "Paris",
+  "live": true
+ },
+ {
+  "host": "vpn22-mia.riseup.net",
+  "ip": "89.187.173.169",
+  "location": "Miami",
+  "live": true
+ },
+ {
+  "host": "vpn23-mia.riseup.net",
+  "ip": "89.187.173.174",
+  "location": "Miami",
+  "live": false
+ }
+]
